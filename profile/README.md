@@ -1,3 +1,3 @@
 # russomi-labs
 
-Welcome to russomi-labs!
+:wave: Welcome to russomi-labs!
